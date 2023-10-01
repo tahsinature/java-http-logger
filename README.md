@@ -1,1 +1,1 @@
-# java-http-logger
+# java-logger
